@@ -1,6 +1,3 @@
 aa
 
-
-bbbbdd
-
-ee
+del2
